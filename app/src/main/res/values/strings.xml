@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Lease App</string>
+    <string name="api_retry_error">Please retry!</string>
+    <string name="api_default_error">Something wrong happened!</string>
+    <string name="some_error">Some Error Occurred!</string>
+    <string name="connection_error">Internet connection lost!</string>
+    <string name="app_google_play_store_link">"https://play.google.com/store/apps/details?id="</string>
+    <string name="app_market_link">"market://details?id="</string>
+    <string name="signup"><b><u>Sign Up</u></b></string>
+    <string name="message_empty_email">Please provide a non empty email!</string>
+    <string name="message_invalid_email">Please provide a valid email!</string>
+    <string name="message_empty_password">Please provide a non empty password!</string>
+    <string name="message_empty_name">Please provide a non empty username!</string>
+    <string name="home">Home</string>
+    <string name="setting">Settings</string>
+    <string name="save">Save</string>
+    <string name="signin"><b><u>Sign In</u></b></string>
+    <string name="sign_out">Log out</string>
+    <string name="term_condition"><b><u>Term &amp; Conditions</u></b></string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="tandc">Term &amp; Conditions</string>
+    <string name="username">Username</string>
+    <string name="address">Address</string>
+    <string name="hp">Phone</string>
+    <string name="message_empty_alamat">Please provide a non empty address</string>
+    <string name="message_empty_member_hp">Please provide a non empty phone</string>
+    <string name="message_empty_member">Please provide a non empty member type</string>
+    <string name="registration_success">Successfully registered</string>
+    <string name="create_account">Create Account</string>
+    <string name="message_agree_termconds">You must agree term and condistions</string>
+    <string name="sign_in">Sign In</string>
+    <string name="agreeto">Agree to the</string>
+    <string name="have_account">Have an account ?</string>
+    <string name="not_member">Not a Member?</string>
+    <string name="history">History</string>
+    <string name="help">Help</string>
+    <string name="search">Search</string>
+    <string name="more">More</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="how_to">How to </string>
+    <string name="import_data">Import Data </string>
+    <string name="import_data_caps">IMPORT DATA</string>
+    <string name="howto">How to ?</string>
+    <string name="by_name">By name</string>
+    <string name="customer">Customer</string>
+    <string name="nosin">Nosin</string>
+    <string name="noka">Noka</string>
+    <string name="warna">Warna</string>
+    <string name="bank">Bank</string>
+    <string name="cabang">Cabang</string>
+</resources>
